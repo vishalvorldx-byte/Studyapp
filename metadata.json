@@ -1,0 +1,6 @@
+{
+  "name": "EduDX",
+  "description": "Interactive audio learning companion for STEM, CBSE & competitive exam mastery with AI tutoring",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
